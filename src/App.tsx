@@ -3,7 +3,7 @@ function App() {
   return (
     <div
     >
-      React Playground
+      React Playground!
     </div>
   )
 }
